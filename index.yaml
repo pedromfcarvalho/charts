@@ -20188,13 +20188,13 @@ entries:
       catalog.cattle.io/namespace: kube-system
       catalog.cattle.io/os: linux,windows
       catalog.cattle.io/permits-os: linux,windows
-      catalog.cattle.io/rancher-version: '>= 2.9.0-0'
+      catalog.cattle.io/rancher-version: '>= 2.10.0-0'
       catalog.cattle.io/release-name: vsphere-csi
     apiVersion: v1
     appVersion: 3.3.1-rancher7
-    created: "2025-01-07T14:46:04.067820059-03:00"
+    created: "2025-01-07T14:49:37.130943118-03:00"
     description: vSphere Cloud Storage Interface (CSI)
-    digest: 3659064f6d312019d104f7b4d2ff99263052f6f0f6364b86780ce6f1db2bf46b
+    digest: 7508fd24621fc37c133d7c68edd6e08977efc30be71c5973500f5358fb9b5925
     icon: https://charts.rancher.io/assets/logos/vsphere-csi.svg
     keywords:
     - infrastructure
